@@ -1,5 +1,6 @@
 Flask==3.0.2
 ultralytics==8.1.34
-PaddleOCR==2.7.2
-requests==2.31.0
 torch==2.2.1
+PaddleOCR==2.7.2
+Pillow==10.2.0
+requests==2.31.0
